@@ -13,7 +13,7 @@
         <div class="page-header">
             <h1>Create User</h1>
         </div>
-        <form action="<?= site_url('LavaLust/user/create'); ?>" method="post">
+        <form action="<?= site_url('LavaCrud/user/create'); ?>" method="post">
             <table class='table table-hover table-responsive table-bordered'>
                 <tr>
                     <td>Last Name</td>
